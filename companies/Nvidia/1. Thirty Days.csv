@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Greatness of an Array,100.0,0.5798630918425556,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Maximum Subarray,83.2,0.5186405326038427,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

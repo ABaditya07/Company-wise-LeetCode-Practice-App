@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Koko Eating Bananas,100.0,0.48954535570359864,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Cherry Pickup II,86.9,0.7185580312303682,https://leetcode.com/problems/cherry-pickup-ii,"Array, Dynamic Programming, Matrix"
+HARD,Create Maximum Number,86.9,0.3201591850891765,https://leetcode.com/problems/create-maximum-number,"Array, Two Pointers, Stack, Greedy, Monotonic Stack"
+HARD,Trapping Rain Water,86.9,0.645647772319481,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Delete Node in a BST,86.9,0.5270226051005816,https://leetcode.com/problems/delete-node-in-a-bst,"Tree, Binary Search Tree, Binary Tree"
+MEDIUM,Ways to Split Array Into Good Subarrays,86.9,0.3363646491936607,https://leetcode.com/problems/ways-to-split-array-into-good-subarrays,"Array, Math, Dynamic Programming"
+MEDIUM,Edit Distance,86.9,0.5838337689284361,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,3Sum Closest,86.9,0.46693000021511033,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
+MEDIUM,Gas Station,86.9,0.4609964814734373,https://leetcode.com/problems/gas-station,"Array, Greedy"
+EASY,Two Sum,86.9,0.5533853731304895,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Reconstruct Itinerary,86.9,0.4345692529467854,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"

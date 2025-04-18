@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Ways to Split Array Into Good Subarrays,100.0,0.3363646491936607,https://leetcode.com/problems/ways-to-split-array-into-good-subarrays,"Array, Math, Dynamic Programming"
+MEDIUM,Koko Eating Bananas,100.0,0.4895451154449886,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,3Sum Closest,100.0,0.46693000021511033,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
+MEDIUM,Gas Station,100.0,0.4609964814734373,https://leetcode.com/problems/gas-station,"Array, Greedy"

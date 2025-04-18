@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.49027568047955067,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Remove All Adjacent Duplicates In String,87.9,0.7123414995084077,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Remove All Adjacent Duplicates in String II,79.3,0.5927991662399155,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+EASY,Backspace String Compare,75.5,0.4943104977853213,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Vowel Spellchecker,75.5,0.5149620671952542,https://leetcode.com/problems/vowel-spellchecker,"Array, Hash Table, String"
+HARD,Word Break II,75.5,0.5318059592233151,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+MEDIUM,Search in Rotated Sorted Array,70.8,0.42507817049493096,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Repeated DNA Sequences,70.8,0.5092905658809709,https://leetcode.com/problems/repeated-dna-sequences,"Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+EASY,Climbing Stairs,64.7,0.5341045293547142,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Insert Delete GetRandom O(1),64.7,0.5496811893345948,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Number of Islands,64.7,0.6186221272606022,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Generate Parentheses,64.7,0.7675049227688682,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Word Search,64.7,0.4483896943440861,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Word Break,64.7,0.4802064440662886,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+EASY,Sleep,56.2,0.8773273170620542,https://leetcode.com/problems/sleep,
+EASY,Perfect Number,56.2,0.44280362521331784,https://leetcode.com/problems/perfect-number,Math
+EASY,Logger Rate Limiter,56.2,0.7640896147853651,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

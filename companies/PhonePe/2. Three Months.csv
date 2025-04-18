@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Frequencies of Shortest Supersequences,100.0,0.24609618988132417,https://leetcode.com/problems/frequencies-of-shortest-supersequences,"Array, String, Bit Manipulation, Graph, Topological Sort, Enumeration"
+MEDIUM,Split Array into Consecutive Subsequences,74.3,0.5142126091448563,https://leetcode.com/problems/split-array-into-consecutive-subsequences,"Array, Hash Table, Greedy, Heap (Priority Queue)"
+MEDIUM,Find Duplicate Subtrees,65.6,0.5996723601709715,https://leetcode.com/problems/find-duplicate-subtrees,"Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Remove K Digits,65.6,0.3458779126734651,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

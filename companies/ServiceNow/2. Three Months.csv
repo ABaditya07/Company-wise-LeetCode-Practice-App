@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Distinct Islands,100.0,0.6204397983648693,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+MEDIUM,Next Permutation,100.0,0.4258661786515415,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
